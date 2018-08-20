@@ -1,0 +1,21 @@
+.blessing-statement{
+    text-align: center;
+}
+
+.social-icons{
+    position: relative;
+}
+
+.back-button{
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
+
+.back-button a:before{
+    content: "\f062";
+    font-family: FontAwesome;
+    color: white;
+    font-size: 18px;
+    border-radius: 25%;
+}
